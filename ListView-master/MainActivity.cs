@@ -12,7 +12,7 @@ namespace ListView
     {
         static readonly string[] countries = new String[] {"Albania", "Belarus","Guam", "Democratic Republic of the Congo",
 "Italy","Jamaica", "Japan","Russia", "United Arab Emirates","United Kingdom", "United States",
-"Yugoslavia","Zambia","Zimbabwe"};
+"Yugoslavia","Zambia","Zimbabwe","Libya","Latvia"};
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
